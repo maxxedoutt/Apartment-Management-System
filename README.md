@@ -96,7 +96,7 @@ Member
 * Password
 * Email
 ```
-### APPLICATION VIEWS:
+### APPLICATION VIEW:
 As part of this project the following list of forms has been developed.
 
 ❖ Manage Apartment Information ­ Interface to add or update apartments under a apartment
